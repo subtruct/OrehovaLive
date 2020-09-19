@@ -35,7 +35,7 @@
     <string name="download_dialog_title">Λήψη</string>
     <string name="next_video_title">Επόμενο</string>
     <string name="show_next_and_similar_title">Εμφάνιση \"Επόμενου\" και \"Σχετικών\" βίντεο</string>
-    <string name="url_not_supported_toast">Δεν υποστηρίζεται η διεύθυνση URL</string>
+    <string name="unsupported_url">Δεν υποστηρίζεται η διεύθυνση URL</string>
     <string name="content_language_title">Προεπιλεγμένη γλώσσα περιεχομένου</string>
     <string name="settings_category_video_audio_title">Βίντεο &amp; Ήχος</string>
     <string name="settings_category_appearance_title">Εμφάνιση</string>
@@ -307,8 +307,6 @@
     <string name="override_current_data">Αυτό θα παρακάμψει τις τρέχουσες ρυθμίσεις σας.</string>
     <string name="import_settings">Θέλετε επίσης να εισάγετε ρυθμίσεις;</string>
     <string name="kiosk">Περίπτερο</string>
-    <string name="title_activity_background_player">Συσκευή αναπαραγωγής Παρασκηνίου</string>
-    <string name="title_activity_popup_player">Συσκευή αναπαραγωγής Αναδυόμενου παραθύρου</string>
     <string name="play_queue_remove">Αφαίρεση</string>
     <string name="play_queue_stream_detail">Λεπτομέρειες</string>
     <string name="play_queue_audio_settings">Ρυθμίσεις ήχου</string>

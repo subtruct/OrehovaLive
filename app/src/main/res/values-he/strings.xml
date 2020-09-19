@@ -54,7 +54,7 @@
     <string name="download_dialog_title">הורדה</string>
     <string name="next_video_title">הבא</string>
     <string name="show_next_and_similar_title">להציג סרטונים דומים ובאים בתור</string>
-    <string name="url_not_supported_toast">כתובת לא נתמכת</string>
+    <string name="unsupported_url">כתובת לא נתמכת</string>
     <string name="content_language_title">שפת התוכן המועדפת</string>
     <string name="settings_category_video_audio_title">סרטונים ושמע</string>
     <string name="settings_category_popup_title">חלון צף</string>
@@ -243,8 +243,6 @@
     <string name="trending">החמים</string>
     <string name="top_50">50 המובילים</string>
     <string name="new_and_hot">חדש וחם</string>
-    <string name="title_activity_background_player">נגן רקע</string>
-    <string name="title_activity_popup_player">נגן צף</string>
     <string name="play_queue_remove">הסרה</string>
     <string name="play_queue_stream_detail">פרטים</string>
     <string name="play_queue_audio_settings">אפשרויות שמע</string>

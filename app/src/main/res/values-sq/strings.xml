@@ -226,8 +226,6 @@
     <string name="play_queue_audio_settings">Aranzhimet Audio</string>
     <string name="play_queue_stream_detail">Detaje</string>
     <string name="play_queue_remove">Hiq</string>
-    <string name="title_activity_popup_player">Luajtësi popup</string>
-    <string name="title_activity_background_player">Luajtësi në sfond</string>
     <string name="conferences">Konferencat</string>
     <string name="most_liked">Më të pëlqyerat</string>
     <string name="recently_added">Të shtuara së fundmi</string>
@@ -546,7 +544,7 @@
     <string name="peertube_instance_url_summary">Zgjidhni instancat tuaja të preferuara të PeerTube</string>
     <string name="peertube_instance_url_title">Instancat PeerTube</string>
     <string name="default_content_country_title">Shteti i parazgjedhur i përmbajtjes</string>
-    <string name="url_not_supported_toast">URL e pambështetur</string>
+    <string name="unsupported_url">URL e pambështetur</string>
     <string name="show_hold_to_append_summary">Trego ndihmën kur shtypet sfondi ose butoni i popup në \"Detajet:\" e videos</string>
     <string name="show_hold_to_append_title">Trego ndihmën \"Mbaje shtypur për ta shtuar në listë\"</string>
     <string name="show_next_and_similar_title">Trego \'Tjetra\' dhe videot \'E ngjashme\'</string>

@@ -85,7 +85,7 @@
     <string name="show_next_and_similar_title">\"Наступнае\" и \"Прапанаванае\" відэа</string>
     <string name="show_hold_to_append_title">\"Зацісніце, каб дадаць\"</string>
     <string name="show_hold_to_append_summary">Паказаць падказку пры націсканні \"У акне\" ці \"У фоне\" на старонцы звестак аб відэа</string>
-    <string name="url_not_supported_toast">URL не падтрымліваецца</string>
+    <string name="unsupported_url">URL не падтрымліваецца</string>
     <string name="default_content_country_title">Краіна кантэнту па змаўчанні</string>
     <string name="service_title">Сэрвіс</string>
     <string name="content_language_title">Мова кантэнту па змаўчанні</string>
@@ -314,8 +314,6 @@
     <string name="trending">Трэнды</string>
     <string name="top_50">Топ 50</string>
     <string name="new_and_hot">Новае і гарачае</string>
-    <string name="title_activity_background_player">У фоне</string>
-    <string name="title_activity_popup_player">У акне</string>
     <string name="play_queue_remove">Выдаліць</string>
     <string name="play_queue_stream_detail">Падрабязнасці</string>
     <string name="play_queue_audio_settings">Налады аўдыё</string>

@@ -84,7 +84,7 @@
     <string name="show_next_and_similar_title">Kuva \'järgmine\' ja \'sarnased\' videod</string>
     <string name="show_hold_to_append_title">Kuva vihjet \"lisamiseks hoia\"</string>
     <string name="show_hold_to_append_summary">Kuva vihje, kui videoandmete lehel vajutatakse tausta või hüpikakna nupule</string>
-    <string name="url_not_supported_toast">Mitte toetatud URL</string>
+    <string name="unsupported_url">Mitte toetatud URL</string>
     <string name="default_content_country_title">Sisu vaikimisi riik</string>
     <string name="service_title">Teenus</string>
     <string name="content_language_title">Sisu vaikimisi keel</string>
@@ -295,8 +295,6 @@
     <string name="trending">Trendid</string>
     <string name="top_50">"Top 50 "</string>
     <string name="new_and_hot">Uus ja kuum</string>
-    <string name="title_activity_background_player">Taustapleier</string>
-    <string name="title_activity_popup_player">Hüpikpleier</string>
     <string name="play_queue_remove">Eemalda</string>
     <string name="play_queue_stream_detail">Üksikasjad</string>
     <string name="play_queue_audio_settings">Heli seaded</string>

@@ -259,8 +259,6 @@
     <string name="kiosk">Quiosc</string>
     <string name="trending">Tendències</string>
     <string name="top_50">Els millors 50</string>
-    <string name="title_activity_background_player">Reproductor en rerefons</string>
-    <string name="title_activity_popup_player">Reproductor emergent</string>
     <string name="enqueue_on_background">Afegeix a la cua de reproducció en rerefons</string>
     <string name="enqueue_on_popup">Afegeix a la cua de reproducció emergent</string>
     <string name="start_here_on_main">Reprodueix aquí</string>
@@ -281,7 +279,7 @@
     <string name="enable_search_history_summary">Emmagatzema les cerques localment</string>
     <string name="enable_watch_history_summary">Crea un historial de vídeos visualitzats</string>
     <string name="resume_on_audio_focus_gain_title">Reprèn automàticament</string>
-    <string name="url_not_supported_toast">Aquest URL no és compatible</string>
+    <string name="unsupported_url">Aquest URL no és compatible</string>
     <string name="error_report_title">Informe d\'error</string>
     <string name="later">Més tard</string>
     <string name="filter">Filtra</string>

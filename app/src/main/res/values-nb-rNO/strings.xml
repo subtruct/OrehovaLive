@@ -35,7 +35,7 @@
     <string name="download_dialog_title">Last ned</string>
     <string name="next_video_title">Neste</string>
     <string name="show_next_and_similar_title">Vis \"Neste\" og \"Lignende\" -videoer</string>
-    <string name="url_not_supported_toast">Nettadressen støttes ikke</string>
+    <string name="unsupported_url">Nettadressen støttes ikke</string>
     <string name="content_language_title">Foretrukket innholdsspråk</string>
     <string name="settings_category_video_audio_title">Video og lyd</string>
     <string name="settings_category_appearance_title">Utseende</string>
@@ -222,8 +222,6 @@
     <string name="kiosk">Kiosk</string>
     <string name="top_50">Topp 50</string>
     <string name="new_and_hot">Nytt og hett</string>
-    <string name="title_activity_background_player">Bakgrunnsavspiller</string>
-    <string name="title_activity_popup_player">Oppsprettsavspiller</string>
     <string name="play_queue_remove">Fjern</string>
     <string name="play_queue_stream_detail">Detaljer</string>
     <string name="play_queue_audio_settings">Lydinnstillinger</string>

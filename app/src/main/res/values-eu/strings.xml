@@ -25,7 +25,7 @@
     <string name="download_dialog_title">Deskargatu</string>
     <string name="next_video_title">Hurrengoa</string>
     <string name="show_next_and_similar_title">Erakutsi \'hurrengo\' eta \'antzeko\' bideoak</string>
-    <string name="url_not_supported_toast">URLak ez du euskarririk</string>
+    <string name="unsupported_url">URLak ez du euskarririk</string>
     <string name="content_language_title">Edukiaren hizkuntz lehenetsia</string>
     <string name="settings_category_video_audio_title">Bideoa eta Audioa</string>
     <string name="play_btn_text">Erreproduzitu</string>
@@ -243,8 +243,6 @@
     <string name="trending">Joerak</string>
     <string name="top_50">Lehen 50ak</string>
     <string name="new_and_hot">Berria eta arrakastatsua</string>
-    <string name="title_activity_background_player">Bigarren planoko erreproduzigailua</string>
-    <string name="title_activity_popup_player">Laster-leiho erreproduzigailua</string>
     <string name="play_queue_remove">Kendu</string>
     <string name="play_queue_stream_detail">Xehetasunak</string>
     <string name="play_queue_audio_settings">Audio ezarpenak</string>

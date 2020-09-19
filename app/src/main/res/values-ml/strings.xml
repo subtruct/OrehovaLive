@@ -79,8 +79,6 @@
     <string name="play_queue_audio_settings">ഓഡിയോ ക്രമീകരണങ്ങൾ</string>
     <string name="play_queue_stream_detail">വിശദാംശങ്ങൾ</string>
     <string name="play_queue_remove">നീക്കം ചെയ്യുക</string>
-    <string name="title_activity_popup_player">പോപ്-അപ് പ്ലെയർ</string>
-    <string name="title_activity_background_player">ബാക്ക്ഗ്രൗണ്ട് പ്ലേയർ</string>
     <string name="conferences">സമ്മേളനങ്ങൾ</string>
     <string name="most_liked">ഏറ്റവും ഇഷ്ടപ്പെട്ടത്</string>
     <string name="recently_added">സമീപകാലത്ത് ചേർത്തത്</string>
@@ -366,7 +364,7 @@
     <string name="content_language_title">സ്ഥിര കന്റെന്റ്‌ ഭാഷ</string>
     <string name="service_title">സേവനം</string>
     <string name="default_content_country_title">സ്ഥിര കന്റെന്റ് രാജ്യം</string>
-    <string name="url_not_supported_toast">അനുയോജ്യമല്ലാത്ത URL</string>
+    <string name="unsupported_url">അനുയോജ്യമല്ലാത്ത URL</string>
     <string name="show_hold_to_append_summary">പോപ്പപ്പ്/ബാക്ക്ഗ്രൗണ്ട് ബട്ടൺ അമർത്തുമ്പോൾ \"വിശദാംശങ്ങൾ\" എന്ന ടിപ് കാണിക്കും</string>
     <string name="show_hold_to_append_title">\"ഹോൾഡ് ടു അപ്പെൻഡ്\" എന്ന ടിപ് കാണിക്കുക</string>
     <string name="show_next_and_similar_title">\'അടുത്ത\' , \'സമാനമായ\' വീഡിയോകൾ കാണിക്കുക</string>

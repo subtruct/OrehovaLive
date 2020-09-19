@@ -68,7 +68,7 @@
     <string name="download_dialog_title">Preuzmi</string>
     <string name="next_video_title">Sljedeće</string>
     <string name="show_next_and_similar_title">Prikaži \'Sljedeće\' i \'Slične\' videozapise</string>
-    <string name="url_not_supported_toast">URL nije podržan</string>
+    <string name="unsupported_url">URL nije podržan</string>
     <string name="content_language_title">Zadani jezik sadržaja</string>
     <string name="settings_category_video_audio_title">Video i zvuk</string>
     <string name="settings_category_popup_title">Skočni prozor</string>
@@ -234,8 +234,6 @@
     <string name="trending">U trendu</string>
     <string name="top_50">Vrh 50</string>
     <string name="new_and_hot">Novo i popularno</string>
-    <string name="title_activity_background_player">Pozadinski player</string>
-    <string name="title_activity_popup_player">Skočni reproduktor</string>
     <string name="play_queue_remove">Ukloni</string>
     <string name="play_queue_stream_detail">Detalji</string>
     <string name="play_queue_audio_settings">Postavke zvuka</string>

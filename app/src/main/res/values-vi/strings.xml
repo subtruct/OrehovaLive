@@ -53,7 +53,7 @@
     <string name="download_dialog_title">Tải về</string>
     <string name="next_video_title">Tiếp theo</string>
     <string name="show_next_and_similar_title">Hiển thị video \"Tiếp theo\" và \"Tương tự\"</string>
-    <string name="url_not_supported_toast">URL không được hỗ trợ</string>
+    <string name="unsupported_url">URL không được hỗ trợ</string>
     <string name="settings_category_appearance_title">Hiển thị</string>
     <string name="settings_category_other_title">Khác</string>
     <string name="background_player_playing_toast">Phát ở chế độ nền</string>
@@ -307,8 +307,6 @@
     <string name="kiosk">Trang chủ</string>
     <string name="trending">Xu hướng</string>
     <string name="new_and_hot">Mới &amp; hot</string>
-    <string name="title_activity_background_player">Trình phát nền</string>
-    <string name="title_activity_popup_player">Trình phát popup</string>
     <string name="play_queue_remove">Tẩy xoá</string>
     <string name="play_queue_stream_detail">Chi tiết</string>
     <string name="play_queue_audio_settings">Cài đặt âm thanh</string>

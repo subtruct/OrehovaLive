@@ -38,7 +38,7 @@
     <string name="download_dialog_title">Pobrane</string>
     <string name="next_video_title">Dalej</string>
     <string name="show_next_and_similar_title">Pokaż \"następne\" i \"podobne\" filmy</string>
-    <string name="url_not_supported_toast">Nieobsługiwany adres URL</string>
+    <string name="unsupported_url">Nieobsługiwany adres URL</string>
     <string name="content_language_title">Domyślny język treści</string>
     <string name="settings_category_video_audio_title">Wideo i audio</string>
     <string name="settings_category_appearance_title">Wygląd</string>
@@ -240,8 +240,6 @@
     <string name="trending">Najpopularniejsze</string>
     <string name="top_50">50 najlepszych</string>
     <string name="new_and_hot">Nowe i gorące</string>
-    <string name="title_activity_background_player">Odtwarzanie w tle</string>
-    <string name="title_activity_popup_player">Odtwarzacz w trybie okienkowym</string>
     <string name="play_queue_remove">Usuń</string>
     <string name="play_queue_stream_detail">Szczegóły</string>
     <string name="play_queue_audio_settings">Ustawienia dźwięku</string>

@@ -92,7 +92,7 @@
     <string name="show_next_and_similar_title">Vis \'Næste\' og \'Lignende\' videoer</string>
     <string name="show_hold_to_append_title">Vis \"Hold for at tilføje\"-tip</string>
     <string name="show_hold_to_append_summary">Vis et tip når der trykkes på baggrunds- eller pop op-knappen på siden med videodetaljer</string>
-    <string name="url_not_supported_toast">Denne webadresse er ikke understøttet</string>
+    <string name="unsupported_url">Denne webadresse er ikke understøttet</string>
     <string name="default_content_country_title">Standardland for indhold</string>
     <string name="service_title">Tjeneste</string>
     <string name="content_language_title">Standardsprog for indhold</string>
@@ -315,8 +315,6 @@
     <string name="trending">Populært lige nu</string>
     <string name="top_50">Top 50</string>
     <string name="new_and_hot">Nyt og populært</string>
-    <string name="title_activity_background_player">Baggrundsafspiller</string>
-    <string name="title_activity_popup_player">Pop op-afspiller</string>
     <string name="play_queue_remove">Fjern</string>
     <string name="play_queue_stream_detail">Detaljer</string>
     <string name="play_queue_audio_settings">Lydindstillinger</string>

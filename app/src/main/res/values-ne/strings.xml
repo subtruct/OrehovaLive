@@ -94,7 +94,7 @@
     <string name="show_next_and_similar_title">\'अर्को\' र \'समान\' भिडियो देखाउन</string>
     <string name="show_hold_to_append_title">\"होल्ड संलग्न गर्न\" टिप देखाउन</string>
     <string name="show_hold_to_append_summary">पृष्ठभूमि वा भिडियो मा पपअप बटन थिच्दा टिप देखाउन \"विवरण:\"</string>
-    <string name="url_not_supported_toast">असमर्थित URL</string>
+    <string name="unsupported_url">असमर्थित URL</string>
     <string name="default_content_country_title">पूर्वनिर्धारित सामग्री देश</string>
     <string name="service_title">सेवा</string>
     <string name="content_language_title">पूर्वनिर्धारित सामग्री भाषा</string>
@@ -334,8 +334,6 @@
     <string name="top_50">शीर्ष 50</string>
     <string name="new_and_hot">नयाँ र तात्तातो</string>
     <string name="conferences">सम्मेलनहरु</string>
-    <string name="title_activity_background_player">प्ले लाममा</string>
-    <string name="title_activity_popup_player">पपअप प्लयेर</string>
     <string name="play_queue_remove">हटाउ</string>
     <string name="play_queue_stream_detail">विवरण</string>
     <string name="play_queue_audio_settings">अडियो सेटिङहरू</string>

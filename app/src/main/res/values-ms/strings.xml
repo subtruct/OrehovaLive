@@ -92,7 +92,7 @@
     <string name="show_next_and_similar_title">Paparkan video \'Seterusnya\' dan \'Berkaitan\'</string>
     <string name="show_hold_to_append_title">Tunjukkan tip \"Pegang untuk menambahkan\"</string>
     <string name="show_hold_to_append_summary">Tunjukkan tip apabila butang latar belakang atau popup ditekan pada halaman butiran video</string>
-    <string name="url_not_supported_toast">URL tidak disokong</string>
+    <string name="unsupported_url">URL tidak disokong</string>
     <string name="default_content_country_title">Negara kandungan utama</string>
     <string name="service_title">Perkhidmatan</string>
     <string name="content_language_title">Bahasa kandungan utama</string>
@@ -328,8 +328,6 @@
     <string name="top_50">Top 50</string>
     <string name="new_and_hot">Baru &amp; panas</string>
     <string name="conferences">Persidangan</string>
-    <string name="title_activity_background_player">Pemain latar belakang</string>
-    <string name="title_activity_popup_player">Pemain popup</string>
     <string name="play_queue_remove">Hapuskan</string>
     <string name="play_queue_stream_detail">Butiran</string>
     <string name="play_queue_audio_settings">Tetapan Audio</string>

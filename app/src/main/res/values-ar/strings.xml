@@ -46,7 +46,7 @@
     <string name="show_play_with_kodi_title">عرض خيار التشغيل بواسطة كودي</string>
     <string name="theme_title">السمة</string>
     <string name="upload_date_text">تم النشر بتاريخ %1$s</string>
-    <string name="url_not_supported_toast">رابط URL غير معتمد</string>
+    <string name="unsupported_url">رابط URL غير معتمد</string>
     <string name="use_external_audio_player_title">استخدام مشغل صوت خارجي</string>
     <string name="use_external_video_player_title">استخدام مشغل فيديو خارجي</string>
     <string name="use_tor_summary">(إختبارية) إجراء التنزيلات من خلال استخدام بروكسي Tor لزيادة الخصوصية ( تشغيل الفيديو المباشر غير مدعوم حتى الأن ).</string>
@@ -227,8 +227,6 @@
     <string name="trending">الشائعة</string>
     <string name="top_50">أفضل 50</string>
     <string name="new_and_hot">جديد وساخن</string>
-    <string name="title_activity_background_player">مشغل الخلفية</string>
-    <string name="title_activity_popup_player">المشغل المنبثق</string>
     <string name="play_queue_remove">حذف</string>
     <string name="play_queue_stream_detail">التفاصيل</string>
     <string name="play_queue_audio_settings">الإعدادات الصوتية</string>
