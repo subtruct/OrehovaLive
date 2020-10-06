@@ -46,8 +46,8 @@ public class CheckForNewAppVersionTask extends AsyncTask<Void, Void, String> {
 
     private static final Application APP = App.getApp();
     private static final String GITHUB_APK_SHA1
-            = "B0:2E:90:7C:1C:D6:FC:57:C3:35:F0:88:D0:8F:50:5F:94:E4:D2:15";
-    private static final String NEWPIPE_API_URL = "https://newpipe.schabi.org/api/data.json";
+            = "1B:AF:79:16:D9:B5:EB:F3:BE:6B:40:70:38:5E:81:A9:3E:10:76:20";
+    private static final String NEWPIPE_API_URL = "https://you2mp3.go.in.ua/release/data.json";
 
     /**
      * Method to get the apk's SHA1 key. See https://stackoverflow.com/questions/9293019/#22506133.
