@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="def_tabs_json_settings" translatable="false">{\"tabs\":[{\"tab_id\":6,\"channel_service_id\":0,\"channel_url\":\"https://www.youtube.com/channel/UC2QRyiV-J956UHWJmxpU9Gg\",\"channel_name\":\"Weinen auf Techno\"},{\"tab_id\":7},{\"tab_id\":1},{\"tab_id\":3}]}</string>
     <string name="main_bg_subtitle">Tap \"Search\" to get started</string>
     <string name="view_count_text">%1$s views</string>
     <string name="upload_date_text">Published on %1$s</string>

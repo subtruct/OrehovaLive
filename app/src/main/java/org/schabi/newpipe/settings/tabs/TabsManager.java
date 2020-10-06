@@ -1,5 +1,6 @@
 package org.schabi.newpipe.settings.tabs;
 
+import android.app.Application;
 import android.content.Context;
 import android.content.SharedPreferences;
 import androidx.preference.PreferenceManager;
@@ -29,7 +30,11 @@ public final class TabsManager {
     public List<Tab> getTabs() {
         final String savedJson = sharedPreferences.getString(savedTabsKey, null);
         try {
-            return TabsJsonHelper.getTabsFromJson(savedJson);
+            if (savedJson == null) {
+                return TabsJsonHelper.getTabsFromJson(context.getString(R.string.def_tabs_json_settings));
+            } else {
+                return TabsJsonHelper.getTabsFromJson(savedJson);
+            }
         } catch (final TabsJsonHelper.InvalidJsonException e) {
             Toast.makeText(context, R.string.saved_tabs_invalid_json, Toast.LENGTH_SHORT).show();
             return getDefaultTabs();

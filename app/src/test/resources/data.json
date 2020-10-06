@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "stargazers": 10561,
+    "watchers": 427,
+    "forks": 1456,
+    "contributors": 499,
+    "translations": 73
+  },
+  "flavors": {
+    "github": {
+      "stable": {
+        "version": "v0.20.0",
+        "version_code": 954,
+        "apk": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.20.0/NewPipe_v0.20.0.apk"
+      }
+    },
+    "fdroid": {
+      "stable": {
+        "version": "0.20.0",
+        "version_code": 954,
+        "apk": "https://f-droid.org/repo/org.schabi.newpipe_954.apk"
+      }
+    },
+    "github_legacy": {
+      "stable": {
+        "version": "v0.19.8",
+        "version_code": 90,
+        "apk": "https://github.com/TeamNewPipe/NewPipe-legacy/releases/download/v0.19.8/NewPipeLegacy-v0.19.8.apk"
+      }
+    },
+    "fdroid_legacy": {
+      "stable": {
+        "version": "0.19.8",
+        "version_code": 90,
+        "apk": "https://f-droid.org/repo/org.schabi.newpipelegacy_90.apk"
+      }
+    }
+  }
+}
